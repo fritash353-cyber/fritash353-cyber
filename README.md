@@ -1,79 +1,109 @@
 # Olá! 👋 Eu sou Henrique
 
-🎓 Estudante de Ciência da Computação | Desenvolvedor em aprendizado contínuo
+🎓 **Estudante de Ciência da Computação**  
+💻 Desenvolvedor em aprendizado contínuo  
+📍 Brasil
+
+> Atualmente na fase: *“qualquer coisa que compile e ensine algo já conta”*
 
 ---
 
-### 🚀 Sobre mim
-Exploro o desenvolvimento sem preconceitos: do frontend ao backend, sempre curioso e testando novas tecnologias.
+## 🚀 Sobre mim
+Exploro o desenvolvimento de software sem preconceitos tecnológicos — do frontend ao backend — sempre com curiosidade, prática e vontade de aprender.
 
-- 🌐 Desenvolvimento Web — Frontend → Backend → Fullstack  
-- 🧪 Gosto de experimentar: frameworks, bibliotecas e boas práticas  
-- 🐢 Aprendo com calma e constância — progresso diário importa mais que pressa  
-- 💾 Código que às vezes funciona, às vezes quebra — sempre ensina
-
----
-
-### 🔭 Atualmente
-- Estudando: estruturas de dados, arquitetura de sistemas e melhores práticas de testes  
-- Praticando: projetos fullstack e automação de pequenas tarefas  
-- Objetivo: consolidar conhecimento em deploys e segurança básica de aplicações
+- 🌐 **Desenvolvimento Web** — Frontend → Backend → Fullstack  
+- 🧪 Gosto de experimentar frameworks, bibliotecas e boas práticas  
+- 🐢 Aprendo com calma e constância — progresso diário > pressa  
+- 💾 Código que às vezes funciona, às vezes quebra — sempre ensina  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-- Linguagens: JavaScript / TypeScript, Python, (adicione as suas favoritas)  
-- Frontend: React, HTML, CSS  
-- Backend: Node.js, Express  
-- Banco de dados: PostgreSQL / MongoDB (conforme o projeto)  
-- DevOps: Docker, Git, CI/CD (em aprendizado)
-
-> Dica: substitua ou acrescente tecnologias conforme seu foco atual.
+## 🔭 Atualmente
+- 📚 Estudando **estruturas de dados**, **arquitetura de sistemas** e **testes**
+- 🛠️ Praticando com **projetos fullstack** e **automações**
+- 🎯 Objetivo atual: dominar **deploy**, **versionamento** e **segurança básica**
 
 ---
 
-### 📊 Minhas estatísticas (atualizadas automaticamente)
+## 🛠️ Tecnologias & Ferramentas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fritash353-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+**Linguagens**
+- JavaScript / TypeScript  
+- Python  
+- *(adicione aqui conforme evoluir)*
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fritash353-cyber&theme=tokyonight)
+**Frontend**
+- React  
+- HTML5 / CSS3  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritash353-cyber&layout=compact&theme=tokyonight)
+**Backend**
+- Node.js  
+- Express  
 
----
+**Banco de Dados**
+- PostgreSQL  
+- MongoDB  
 
-### ⭐ Projetos em destaque
-- Projeto A — breve descrição do que resolve e tecnologias usadas.  
-- Projeto B — breve descrição do que resolve e tecnologias usadas.  
-- Projeto C — breve descrição do que resolve e tecnologias usadas.
-
-(Quer que eu preencha essas descrições e links para os repositórios? Me envie os nomes dos projetos.)
-
----
-
-### 🤝 Como posso contribuir para sua comunidade
-- Código limpo e com testes quando possível  
-- Pull requests com explicação clara do que muda  
-- Revisões com foco em legibilidade e boas práticas
-
----
-
-### ✉️ Contato
-- GitHub: [fritash353-cyber](https://github.com/fritash353-cyber)  
-- Email: seu-email@example.com (substitua pelo seu)  
-- LinkedIn / Twitter: (adicione seus perfis aqui)
+**DevOps / Ferramentas**
+- Git & GitHub  
+- Docker *(em aprendizado)*  
+- CI/CD *(em aprendizado)*  
 
 ---
 
-### 🧭 Filosofia
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<!-- Estatísticas gerais -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fritash353-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fritash353-cyber&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<!-- Linguagens mais usadas -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritash353-cyber&layout=compact&theme=tokyonight" />
+
+</div>
+
+✔️ **O que foi ajustado aqui:**
+- Altura fixa nos cards → visual alinhado  
+- Nada duplicado (commits não contam duas vezes)  
+- Layout centralizado → mais limpo no perfil  
+
+---
+
+## ⭐ Projetos em Destaque
+*(em construção)*
+
+- **Projeto A** — descrição curta + tecnologias  
+- **Projeto B** — descrição curta + tecnologias  
+- **Projeto C** — descrição curta + tecnologias  
+
+> 💡 Quando quiser, me mande os nomes dos repositórios que eu já monto isso com links e badges.
+
+---
+
+## 🤝 Como posso contribuir
+- Código legível e organizado  
+- Commits claros e objetivos  
+- Pull Requests bem explicados  
+- Foco em boas práticas e aprendizado coletivo  
+
+---
+
+## ✉️ Contato
+- 🐙 GitHub: [fritash353-cyber](https://github.com/fritash353-cyber)  
+- 📧 Email: seu-email@example.com  
+- 💼 LinkedIn / X (Twitter): *(adicione aqui)*  
+
+---
+
+## 🧭 Filosofia
 > Entender o problema → Escrever código → Quebrar tudo → Aprender → Repetir.
 
-✨ Bem-vindo ao meu caos organizado — bugs viram aprendizado e curiosidade vira projeto.
-
----
-
-Se quiser, eu:
-- personalizo com seu nome real e links reais (LinkedIn, portfolio, email);  
-- adiciono cards de projetos com previews e links diretos;  
-- incluo GIF/ilustração de introdução;  
-diga qual dessas opções prefere e eu atualizo o arquivo.
+✨ **Bem-vindo ao meu caos organizado**,  
+onde bugs viram aprendizado e curiosidade vira projeto.
